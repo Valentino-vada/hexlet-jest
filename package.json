@@ -1,7 +1,7 @@
 {
   "name": "hexlet-jest",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![Actions Status](https://github.com/Valentino-vada/~/hexlet-jest/workflows/hexlet-check/badge.svg)](https://github.com/Valentino-vada/~/hexlet-jest/actions)",
   "type": "module",
   "main": "index.js",
   "scripts": {
