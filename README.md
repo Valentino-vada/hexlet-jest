@@ -1,1 +1,1 @@
-123
+[![Node CI](https://github.com/Valentino-vada/hexlet-jest/actions/workflows/node.yml/badge.svg)](https://github.com/Valentino-vada/hexlet-jest/actions/workflows/node.yml)
